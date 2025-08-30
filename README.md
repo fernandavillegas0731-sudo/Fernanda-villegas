@@ -18,17 +18,18 @@ Actualmente estoy en proceso de fortalecer mis habilidades en programación, red
 - **Herramientas:** Git, GitHub, Visual Studio Code.  
 - **Intereses:** Desarrollo web, análisis de datos, cloud computing.  
 
----
+## 📂 Mi CV
+📄 [Descargar mi Currículum](./silvia%20calderon%20HV.pdf) 
 
 ## 📂 Proyectos
-- 📄 [Mi Currículum](./CV_Fernanda_Calderon_Villegas_Actualizado.pdf)  
+- 📄 
 - 💡 Próximamente proyectos de programación y práctica.  
 
 ---
 
 ## 📫 Conecta conmigo
 - ✉️ Correo: *[fernandavillegas0731@gmail.com ]*  
-- 🌐 GitHub: [github.com/TuUsuario](https://github.com/TuUsuario)  
+- 🌐 GitHub:https://github.com/fernandavillegas0731-sudo/Fernanda-villegas.git
 
 ---
 ✨ *“La tecnología es el puente entre las ideas y la realidad”* ✨
